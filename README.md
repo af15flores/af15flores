@@ -26,6 +26,19 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+## Projects
+- Detection Lab
+- SOC Automation Project
+- Self-hosting Server
+- VMware ESXi
+- Home Assistant
+- pfSense
+- OpenAI
+- Docker Server
+- Open Source Security Platform
+- Windows Server 2022 Datacenter
+- Ubuntu Server
+  
 ## Skills
 <!-- [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] -->
 
@@ -78,13 +91,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://images.credly.com/size/110x110/images/95dd090f-b8b2-4a61-8721-24c465552bdd/image.png" />
   
 </div>
-## Projects
- <div>
 
-
-  
-</div>
 
 ## Projects
+
+
+<!-- 
 - Detection Lab
 - SOC Automation Project
+-->
