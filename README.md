@@ -77,9 +77,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" />
   <img src="https://images.credly.com/size/110x110/images/95dd090f-b8b2-4a61-8721-24c465552bdd/image.png" />
   
- 
-
- 
+</div>
+## Projects
+ <div>
 
 
   
