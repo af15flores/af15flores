@@ -5,6 +5,15 @@ If you haven’t already installed Homebrew, open **Terminal** and run:
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+On Apple Silicon (M1/M2), Homebrew is installed in /opt/homebrew/. Add it to your PATH:
+
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zshrc
+source ~/.zshrc
+
+Then, check again with:
+
+brew --version
+
 Once installed, update Homebrew:
 ```sh
 brew update
