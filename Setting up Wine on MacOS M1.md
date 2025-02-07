@@ -56,5 +56,3 @@ Allow Wine to Run in System Preferences
 ### **Alternative: Use Wine via UTM or Crossover**
 - **[UTM](https://mac.getutm.app/)**: Emulates a full Windows environment.
 - **[CrossOver](https://www.codeweavers.com/crossover)** (paid): Optimized Wine version for macOS ARM.
-
-Would you like help setting up a specific Windows app on Wine?
