@@ -36,6 +36,12 @@ Check if Wine is installed correctly:
 ```sh
 wine --version
 ```
+Allow Wine to Run in System Preferences
+
+    Click the Apple menu  → System Settings (or "System Preferences" on older macOS).
+    Go to Privacy & Security.
+    Scroll down to Security and look for a message about Wine.
+    Click "Allow Anyway".
 
 ### **Step 5: Run Windows Applications**
 1. Navigate to the `.exe` file directory:
