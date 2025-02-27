@@ -71,7 +71,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <!-- <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
   <!--<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" /> -->
   <!--<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
-  <img src="https://images.credly.com/size/110x110/images/31459fb8-0734-4078-9175-dd1a6e56de4a/01_cyberops_associate_300.png" />
+  <img src="https://images.credly.com/size/110x110/images/43ee30bc-78c5-4704-942c-337c6ee7abf9/blob" />
   <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" />
   <img src="https://images.credly.com/size/110x110/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" />
   <img src="https://images.credly.com/size/110x110/images/3f36cda2-b4c2-46ba-a6d8-f11219631451/MTA-Security_Fundamentals-600x600.png" />
